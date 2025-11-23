@@ -1,4 +1,4 @@
-<h4 align="center">Sou um desenvolvedor apaixonado por tecnologia e resolução de problemas. Combino a robustez do Java (Spring Framework) com a dinamicidade do Frontend (Angular/React) para entregar aplicações completas. Tenho experiência com arquitetura de microsserviços, integração de bancos de dados e ferramentas de qualidade como Sonarqube, sempre focado em escalabilidade e performance.</h4>
+<h4 align="center">Olá! Seja bem vindo ao meu GitHub!</h4>
 
 ###
 
